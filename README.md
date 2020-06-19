@@ -1,6 +1,6 @@
 # Temporal Difference Learning Algorithms for Cliff Walking Environment
 
-<p align="center"><img src="cliff.png" width = "256" height = "256"></p>
+<p align="center"><img src="cliff.png" width = "550" height = "256"></p>
 
 This is my implementation of the following Temporal Difference (model-free) Learning Algorithms:
 
