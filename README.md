@@ -2,7 +2,7 @@
 
 <p align="center"><img src="cliff.png" width = "550" height = "256"></p>
 
-This is my implementation of the following Temporal Difference (model-free) Learning Algorithms:
+This is my implementation of the following three Temporal Difference (model-free) Learning Algorithms:
 
 * Sarsamax (Q-learning)
 * Sarsa-zero
@@ -17,5 +17,4 @@ I used **epsilon-greedy method** to upgrade policy at each iteration.
 ## Repository 
 
 This repository contains:
-* **sarsa_x.py** :  function sarsa_x(env, algorithm, num_episodes=50000, alpha=0.01, gamma=1.0, save_every=100)
-
+* **sarsa_x.py** :  Complete code for ALL steps of the 3 TD Learning algorithms' implementation
